@@ -1,0 +1,4 @@
+Use cases of First-class functions:
+1. Used to write higher-order functions.
+2. Used to write a function which is meant to be used in the same code block
+3. Used to write non-reusable code for initializing env or adding exit functionality
